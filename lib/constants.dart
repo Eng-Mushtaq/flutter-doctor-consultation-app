@@ -1,1 +1,0 @@
-double kInputBorderWidth = 1;
